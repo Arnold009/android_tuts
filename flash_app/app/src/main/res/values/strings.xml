@@ -1,0 +1,20 @@
+<resources>
+        <string name="app_name">hotelBooking</string>
+        <string name="logo">Your App Name</string>
+        <string name="username_hint">Username</string>
+        <string name="password_hint">Password</string>
+        <string name="login_button">Login</string>
+        <string name="email_hint">Email</string>
+        <string name="signup_button">Signup</string>
+        <string name="hello_blank_fragment">Hello blank fragment</string>
+        <string name="img_auth">img_auth\n</string>
+        <string name="swipe_left_for_register">Swipe Left for Register</string>
+        <string name="login">Login</string>
+        <string name="password">Password</string>
+        <string name="email">Email</string>
+        <string name="tag">Let\'s join us and \ facilitate your self</string>
+        <string name="swipe_right_for_login">Swipe Right for Login</string>
+        <string name="register">Register</string>
+        <string name="re_type_password">Re-type Password</string>
+         <string name="your_name">Full Name</string>
+</resources>

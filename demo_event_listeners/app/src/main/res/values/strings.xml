@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">listeners_demo</string>
+    <string name="edtName">Enter Name Here!</string>
+    <string name="accept_terms">Accept Terms*</string>
+    <string name="male">MALE</string>
+    <string name="female">FEMALE</string>
+    <string name="submitBtn">Submit</string>
+    <string name="dob">Date Of Birth</string>
+</resources>

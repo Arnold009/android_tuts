@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/loginFragment"
+    >
+
+    <fragment
+        android:label="Login"
+        android:name="com.android_tuts.hotelbooking.FragementLogin"
+        tools:layout="@layout/fragement_login"
+        android:id="@+id/loginFragment"
+        >
+        <action
+            android:id="@+id/action_loginFragment_to_signupFragment"
+            app:destination="@id/signupFragment" />
+    </fragment>
+
+    <fragment
+        android:label="Sign Up"
+        android:name="com.android_tuts.hotelbooking.FragmentSignup"
+        tools:layout="@layout/fragement_signup"
+        android:id="@+id/signupFragment"
+        >
+    </fragment>
+
+</navigation>
